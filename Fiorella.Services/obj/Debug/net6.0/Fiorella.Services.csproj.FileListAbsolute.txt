@@ -1,0 +1,17 @@
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.csproj.AssemblyReference.cache
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.AssemblyInfoInputs.cache
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.AssemblyInfo.cs
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.csproj.CoreCompileInputs.cache
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Services.deps.json
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Services.dll
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Services.pdb
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Core.dll
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Data.dll
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Data.pdb
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\bin\Debug\net6.0\Fiorella.Core.pdb
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.csproj.CopyComplete
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.dll
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\refint\Fiorella.Services.dll
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\Fiorella.Services.pdb
+C:\Users\Samedusa\Desktop\ProjectFio\Fiorella.Api\Fiorella.Services\obj\Debug\net6.0\ref\Fiorella.Services.dll
