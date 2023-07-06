@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "gArICg+uUZcryu4E1yptX+g1M32LR9yGkg4AeLBf/0M=",
+  "Hash": "7xkpKDf8wJb1Fta6O+VFvcpCPWSHr3mRKEIUIB9BXH0=",
   "Source": "Fiorella.Api",
   "BasePath": "_content/Fiorella.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Fiorella.Api\\wwwroot",
+      "Source": "Fiorella.Api",
+      "ContentRoot": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\wwwroot\\",
+      "BasePath": "_content/Fiorella.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\wwwroot\\sliders\\da8139eb-f776-4526-9223-b7c29b1330aaomfg.png",
+      "SourceId": "Fiorella.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\wwwroot\\",
+      "BasePath": "_content/Fiorella.Api",
+      "RelativePath": "sliders/da8139eb-f776-4526-9223-b7c29b1330aaomfg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sliders\\da8139eb-f776-4526-9223-b7c29b1330aaomfg.png"
+    },
+    {
+      "Identity": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\wwwroot\\sliders\\fbde3e44-16c5-4bc5-8bb2-cae8889bc48domfg.png",
+      "SourceId": "Fiorella.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\wwwroot\\",
+      "BasePath": "_content/Fiorella.Api",
+      "RelativePath": "sliders/fbde3e44-16c5-4bc5-8bb2-cae8889bc48domfg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sliders\\fbde3e44-16c5-4bc5-8bb2-cae8889bc48domfg.png"
+    }
+  ]
 }

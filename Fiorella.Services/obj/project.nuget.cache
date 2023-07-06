@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ise7+YkwGaHR+oqx9WkhWFv1sAlOpJkiTpdvUUFRUxMOL59YV97poGczMgo0IYFahFSgLSklArSa9/7KEa15sw==",
+  "dgSpecHash": "hjz8SowlVrBVNmBPuiBdiFnK8zCeMNPtLn5ru4aFB8SmvWWw0gXtS+D1wtDQm1tDw1cL31GUTJTvSIB1It5WDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Services\\Fiorella.Services.csproj",
+  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Services\\Fiorella.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samedusa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Samedusa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

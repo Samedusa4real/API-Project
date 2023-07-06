@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace Fiorella.Services.Interfaces
 {
-    
     public interface ICategoryService
     {
         public CreatedItemDto Create(CategoryPostDto postDto);

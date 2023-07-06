@@ -2645,11 +2645,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Api\\Fiorella.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\Fiorella.Api.csproj",
       "projectName": "Fiorella.Api",
-      "projectPath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Api\\Fiorella.Api.csproj",
+      "projectPath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\Fiorella.Api.csproj",
       "packagesPath": "C:\\Users\\Samedusa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Api\\obj\\",
+      "outputPath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samedusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2666,8 +2666,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Services\\Fiorella.Services.csproj": {
-              "projectPath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Services\\Fiorella.Services.csproj"
+            "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Services\\Fiorella.Services.csproj": {
+              "projectPath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Services\\Fiorella.Services.csproj"
             }
           }
         }

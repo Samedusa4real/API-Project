@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zTatnGT98xwKvf1wRhhsraAJYJtyDVk8fCG96Yh6uBS35EOBQN3wn396knWU6WADxB6DucJXRw3/BHZpIKW94Q==",
+  "dgSpecHash": "cK4DxH2dLHih/DvJRrulb4pV7IH/i/6N0k5eQeWbC4wK/qNKbnjOW3yimeyIxMxX1h0+jo9WKyqFFzjkKr328w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Data\\Fiorella.Data.csproj",
+  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Data\\Fiorella.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samedusa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Samedusa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.19\\microsoft.aspnetcore.cryptography.internal.6.0.19.nupkg.sha512",

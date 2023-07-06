@@ -3,6 +3,7 @@ using Fiorella.Core.Entities;
 using Fiorella.Core.Repositories;
 using Fiorella.Services.Dtos.CategoryDtos;
 using Fiorella.Services.Dtos.Common;
+using Fiorella.Services.Exceptions;
 using Fiorella.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -26,7 +27,7 @@ namespace Fiorella.Services.Implementations
         public CreatedItemDto Create(CategoryPostDto postDto)
         {
             if (_categoryRepository.IsExist(x => x.Name == postDto.Name))
-                throw new Exception();
+                throw new RestException("Name","Name already exist",System.Net.HttpStatusCode.BadRequest,"Duplicate Exception");
                 
             var entity = _mapper.Map<Category>(postDto);
 

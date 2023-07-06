@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\Fiorella.Core.csproj": {}
+    "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\Fiorella.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\Fiorella.Core.csproj": {
+    "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\Fiorella.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\Fiorella.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\Fiorella.Core.csproj",
         "projectName": "Fiorella.Core",
-        "projectPath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\Fiorella.Core.csproj",
+        "projectPath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\Fiorella.Core.csproj",
         "packagesPath": "C:\\Users\\Samedusa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\obj\\",
+        "outputPath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samedusa\\AppData\\Roaming\\NuGet\\NuGet.Config",

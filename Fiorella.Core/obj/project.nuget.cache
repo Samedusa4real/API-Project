@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xHJa3vrSRSlTyvfT/i+tLDqI8CPpJsZNMEurrmIQJKFhZZJtHyNrsO5E/CiYeHyHGcmlO3S9JAQAcPRlcbPS7A==",
+  "dgSpecHash": "unJwJLusoTP73nDDY00l+OGqFDeYpT7+K5zqsexQ2KSa6o9gJZuX5jq4Jx6uTt4Z5KyfAyfWbw518nsxmZzxUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\ProjectFio\\Fiorella.Api\\Fiorella.Core\\Fiorella.Core.csproj",
+  "projectFilePath": "C:\\Users\\Samedusa\\Desktop\\API-Project\\Fiorella.Core\\Fiorella.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samedusa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.19\\microsoft.aspnetcore.cryptography.internal.6.0.19.nupkg.sha512",
     "C:\\Users\\Samedusa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.19\\microsoft.aspnetcore.cryptography.keyderivation.6.0.19.nupkg.sha512",
